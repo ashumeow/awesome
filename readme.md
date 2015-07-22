@@ -8,6 +8,10 @@
 
 > A curated list of awesome lists
 
+[What makes for an awesome list?](awesome.md)
+
+If you want to contribute, please read the [contribution guidelines](contributing.md).
+
 
 ## TOC
 
@@ -37,11 +41,12 @@
 - [iOS](https://github.com/vsouza/awesome-ios)
 - [Android](https://github.com/JStumpp/awesome-android)
 - [Hybrid Apps](https://github.com/weblancaster/awesome-hybrid)
-- [Electron](https://github.com/sindresorhus/awesome-electron) *(formerly atom-shell)*
+- [Electron](https://github.com/sindresorhus/awesome-electron)
 - [Cordova](https://github.com/busterc/awesome-cordova)
 - [React Native](https://github.com/jondot/awesome-react-native)
 - [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
+
 
 ## Programming Languages
 
@@ -54,6 +59,7 @@
 - [Go](https://github.com/avelino/awesome-go)
 - [Scala](https://github.com/lauris/awesome-scala)
 - [Ruby](https://github.com/markets/awesome-ruby)
+	- [Ruby Events](https://github.com/planetruby/awesome-events) *(Conferences, Meetups, etc.)*
 - [Clojure](https://github.com/razum2um/awesome-clojure)
 - [Elixir](https://github.com/h4cc/awesome-elixir)
 - [Elm](https://github.com/isRuslan/awesome-elm)
@@ -64,7 +70,6 @@
 - [C/C++](https://github.com/fffaraz/awesome-cpp)
 - [R](https://github.com/qinwf/awesome-R)
 - [D](https://github.com/zhaopuming/awesome-d)
-- [Common Lisp](https://github.com/kozross/awesome-cl)
 - [Perl](https://github.com/hachiojipm/awesome-perl)
 - [Groovy](https://github.com/kdabir/awesome-groovy)
 - [Dart](https://github.com/yissachar/awesome-dart)
@@ -93,7 +98,6 @@
 - [AngularJS](https://github.com/gianarb/awesome-angularjs)
 - [Backbone](https://github.com/instanceofpro/awesome-backbone)
 - [HTML5](https://github.com/diegocard/awesome-html5)
-- [Sass](https://github.com/HugoGiraudel/awesome-sass)
 - [SVG](https://github.com/willianjusten/awesome-svg)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout)
 - [Dojo Toolkit](https://github.com/peterkokot/awesome-dojo)
@@ -102,7 +106,7 @@
 - [Android UI](https://github.com/wasabeef/awesome-android-ui)
 - [iOS UI](https://github.com/cjwirth/awesome-ios-ui)
 - [Scalable CSS](https://github.com/davidtheclark/scalable-css-reading-list)
-- [Meteor](https://github.com/gillesfabio/awesome-meteor)
+- [Meteor](https://github.com/Urigo/awesome-meteor)
 - [BEM](https://github.com/sturobson/BEM-resources)
 - [CSS Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css)
 - [Flexbox](https://github.com/afonsopacifer/awesome-flexbox)
@@ -128,6 +132,7 @@
 - [Phalcon](https://github.com/sergeyklay/awesome-phalcon)
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess)
 - [nginx](https://github.com/fcambus/nginx-resources)
+- [Dropwizard](https://github.com/stve/awesome-dropwizard)
 
 
 ## Computer Science
@@ -176,6 +181,7 @@
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
 - [Atom](https://github.com/mehcode/awesome-atom)
 
+
 ## Gaming
 
 - [Game Development](https://github.com/ellisonleao/magictools)
@@ -221,6 +227,7 @@
 
 - [CLI Workshoppers/Adventures](https://github.com/therebelrobot/awesome-workshopper)
 - [Learn to Program](https://github.com/karlhorky/learn-to-program)
+- [Speaking](https://github.com/matteofigus/awesome-speaking)
 
 
 ## Security
@@ -273,6 +280,9 @@
 - [Self Hosted](https://github.com/Kickball/awesome-selfhosted)
 - [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps)
 - [Gulp](https://github.com/alferov/awesome-gulp)
+- [AMA](https://github.com/sindresorhus/amas) *(Ask Me Anything)*
+- [GIF](https://github.com/Syskaw/awesome-gif)
+- [Open Source Photography](https://github.com/Syskaw/awesome-OpenSourcePhotography/)
 
 
 ## License
