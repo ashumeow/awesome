@@ -144,7 +144,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
 - [Cryptography](https://github.com/MaciejCzyzewski/retter)
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
-- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) *(Neural networks)*
+- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+- [Recurrent Neural Networks] (https://github.com/kjw0612/awesome-rnn)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 
 
